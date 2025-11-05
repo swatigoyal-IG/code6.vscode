@@ -1,0 +1,14 @@
+C:\Users\Swati.Goyal\code6\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+C:\Users\Swati.Goyal\code6\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+C:\Users\Swati.Goyal\code6\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+C:\Users\Swati.Goyal\code6\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+C:\Users\Swati.Goyal\code6\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+C:\Users\Swati.Goyal\code6\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swati.Goyal\code6\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Swati.Goyal\code6\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Swati.Goyal\code6\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Swati.Goyal\code6\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+C:\Users\Swati.Goyal\code6\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+C:\Users\Swati.Goyal\code6\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+C:\Users\Swati.Goyal\code6\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+C:\Users\Swati.Goyal\code6\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll
